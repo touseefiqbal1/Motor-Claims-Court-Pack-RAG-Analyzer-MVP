@@ -1,0 +1,17 @@
+[
+  {
+    "pdf": "synthetic_data\\court_pack_1_CLM-XOR-161849.pdf",
+    "ground_truth": "synthetic_data\\court_pack_1_CLM-XOR-161849_ground_truth.json",
+    "claim_reference": "CLM-XOR-161849"
+  },
+  {
+    "pdf": "synthetic_data\\court_pack_2_CLM-NFA-533645.pdf",
+    "ground_truth": "synthetic_data\\court_pack_2_CLM-NFA-533645_ground_truth.json",
+    "claim_reference": "CLM-NFA-533645"
+  },
+  {
+    "pdf": "synthetic_data\\court_pack_3_CLM-NOO-665754.pdf",
+    "ground_truth": "synthetic_data\\court_pack_3_CLM-NOO-665754_ground_truth.json",
+    "claim_reference": "CLM-NOO-665754"
+  }
+]

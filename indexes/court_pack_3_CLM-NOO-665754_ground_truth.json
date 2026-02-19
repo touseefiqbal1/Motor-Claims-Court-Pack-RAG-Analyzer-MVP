@@ -1,0 +1,57 @@
+{
+  "claim_reference": "CLM-NOO-665754",
+  "policy_number": "POL-60273415",
+  "insurer": "Crownline Underwriters",
+  "claimant": {
+    "name": "Lily Wilson",
+    "dob": "1987-05-14",
+    "address": "133 King Street, Salford, West Midlands, WL8 WP7",
+    "phone": "+44 7749690333",
+    "email": "lily.472@examplemail.co.uk"
+  },
+  "defendant": {
+    "name": "Leo Brown",
+    "dob": "1978-09-23",
+    "address": "109 King Street, Sheffield, West Yorkshire, LI8 CE1",
+    "phone": "+44 7478539078",
+    "email": "leo.646@examplemail.co.uk"
+  },
+  "incident_date": "2022-06-18",
+  "incident_time": "11:40",
+  "incident_location": "A580 East Lancashire Road, near Swinton",
+  "claimant_vehicle": {
+    "make": "Kia",
+    "model": "Astra",
+    "colour": "White",
+    "registration": "HD11 LBR",
+    "vin": "WVWZZZGKG54443928"
+  },
+  "defendant_vehicle": {
+    "make": "Audi",
+    "model": "A3",
+    "colour": "White",
+    "registration": "ZM69 YUA",
+    "vin": "WVWZZZPUQ26333738"
+  },
+  "alleged_liability": "Claimant alleges Defendant changed lanes abruptly at a junction, striking Claimant's vehicle and forcing evasive braking.",
+  "police_reference": "PNC/2022/6433481",
+  "injuries": [
+    "Headache and sleep disturbance following incident",
+    "Bruising to left shoulder and upper arm",
+    "Soft tissue injury to neck (whiplash-associated disorder)",
+    "Lower back pain with reduced range of motion"
+  ],
+  "medical_findings_summary": "Offer braking breach visibility visibility repair defendant impact contemporaneous invoice contemporaneous counter inconsistency claimant photographs prognosis. Denies duty braking speed settlement timeline lane timeline offer assessment counter argument treatment defendant invoice. Contemporaneous schedule denies invoice whiplash physiotherapy physiotherapy invoice lane junction. Lane collision assessment junction causation witness evidence denies invoice visibility whiplash counter negligence.",
+  "repair_estimate": 1714.27,
+  "hire_charges": 2354.7,
+  "general_damages": 1361.85,
+  "special_damages": 1026.47,
+  "total_claimed": 6457.29,
+  "fraud_indicators": [
+    "Hire period exceeds repair duration by > 7 days",
+    "Late notification of claim (reported > 14 days after incident)",
+    "Inconsistent account across witness statement and initial FNOL"
+  ],
+  "reserve_recommendation": 4518.49,
+  "settlement_recommendation": 4994.09
+}

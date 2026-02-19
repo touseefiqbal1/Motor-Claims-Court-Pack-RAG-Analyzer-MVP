@@ -1,0 +1,55 @@
+{
+  "claim_reference": "CLM-XOR-161849",
+  "policy_number": "POL-59310341",
+  "insurer": "Avon Mutual Insurance",
+  "claimant": {
+    "name": "James Williams",
+    "dob": "1975-12-27",
+    "address": "58 Station Street, Liverpool, Greater Manchester, VX8 CS6",
+    "phone": "+44 7001338908",
+    "email": "james.213@examplemail.co.uk"
+  },
+  "defendant": {
+    "name": "Ava Davies",
+    "dob": "1991-06-08",
+    "address": "72 Victoria Road, Stoke-on-Trent, West Yorkshire, WN5 IE3",
+    "phone": "+44 7511615594",
+    "email": "ava.836@examplemail.co.uk"
+  },
+  "incident_date": "2023-04-22",
+  "incident_time": "08:30",
+  "incident_location": "Princess Parkway at Moss Side, Manchester",
+  "claimant_vehicle": {
+    "make": "Hyundai",
+    "model": "Corolla",
+    "colour": "Silver",
+    "registration": "LL34 WVU",
+    "vin": "WVWZZZCTU28327648"
+  },
+  "defendant_vehicle": {
+    "make": "Ford",
+    "model": "3 Series",
+    "colour": "Black",
+    "registration": "ZK64 CGS",
+    "vin": "WVWZZZWKG76724238"
+  },
+  "alleged_liability": "Claimant alleges Defendant failed to stop in time at slow-moving traffic, causing a rear-end collision.",
+  "police_reference": "PNC/2023/7824896",
+  "injuries": [
+    "Headache and sleep disturbance following incident",
+    "Anxiety when driving and reduced confidence",
+    "Lower back pain with reduced range of motion",
+    "Soft tissue injury to neck (whiplash-associated disorder)"
+  ],
+  "medical_findings_summary": "Photographs negligence timeline alleged statement schedule whiplash damages settlement speed physiotherapy collision junction junction physiotherapy insured report policy. Claimant settlement red-flag statement settlement assessment timeline coverage symptoms denies statement indemnity speed damages insured claimant red-flag red-flag. Cctv timeline quantum cctv evidence whiplash counter whiplash cctv physiotherapy causation schedule impact timeline. Assessment report claimant physiotherapy argument photographs defendant statement impact counter insurer alleged.",
+  "repair_estimate": 1922.61,
+  "hire_charges": 2075.13,
+  "general_damages": 1104.77,
+  "special_damages": 931.91,
+  "total_claimed": 6034.42,
+  "fraud_indicators": [
+    "Minimal vehicle damage inconsistent with injury severity"
+  ],
+  "reserve_recommendation": 5077.71,
+  "settlement_recommendation": 3249.64
+}

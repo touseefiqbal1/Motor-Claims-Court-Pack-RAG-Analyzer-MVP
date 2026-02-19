@@ -1,0 +1,56 @@
+{
+  "claim_reference": "CLM-NFA-533645",
+  "policy_number": "POL-25777547",
+  "insurer": "Crownline Underwriters",
+  "claimant": {
+    "name": "Ava Johnson",
+    "dob": "1993-12-22",
+    "address": "218 London Road, Salford, West Yorkshire, FH9 IG1",
+    "phone": "+44 7290878141",
+    "email": "ava.266@examplemail.co.uk"
+  },
+  "defendant": {
+    "name": "Noah Khan",
+    "dob": "1986-11-09",
+    "address": "85 Church Lane, Salford, West Yorkshire, DJ9 CG5",
+    "phone": "+44 7775949299",
+    "email": "noah.383@examplemail.co.uk"
+  },
+  "incident_date": "2022-08-11",
+  "incident_time": "09:50",
+  "incident_location": "A580 East Lancashire Road, near Swinton",
+  "claimant_vehicle": {
+    "make": "Vauxhall",
+    "model": "A3",
+    "colour": "Silver",
+    "registration": "RG41 XCA",
+    "vin": "WVWZZZQUA99693084"
+  },
+  "defendant_vehicle": {
+    "make": "Hyundai",
+    "model": "Golf",
+    "colour": "White",
+    "registration": "MH94 EOQ",
+    "vin": "WVWZZZQCM58039282"
+  },
+  "alleged_liability": "Claimant alleges Defendant pulled out from a side road without due care, causing a front-side impact.",
+  "police_reference": "PNC/2022/6030299",
+  "injuries": [
+    "Anxiety when driving and reduced confidence",
+    "Lower back pain with reduced range of motion",
+    "Bruising to left shoulder and upper arm",
+    "Headache and sleep disturbance following incident"
+  ],
+  "medical_findings_summary": "Duty timeline photographs duty collision policy impact duty liability prognosis. Report impact junction witness insured liability liability symptoms argument evidence reserve report whiplash. Inconsistency policy treatment assessment invoice quantum junction symptoms junction impact treatment symptoms collision report. Junction duty report lane admits admits photographs witness physiotherapy claimant cctv contemporaneous visibility damages. Collision cctv symptoms coverage breach schedule quantum damages impact physiotherapy reserve statement prognosis.",
+  "repair_estimate": 1891.04,
+  "hire_charges": 2709.05,
+  "general_damages": 2772.66,
+  "special_damages": 681.52,
+  "total_claimed": 8054.27,
+  "fraud_indicators": [
+    "Hire period exceeds repair duration by > 7 days",
+    "Inconsistent account across witness statement and initial FNOL"
+  ],
+  "reserve_recommendation": 6424.87,
+  "settlement_recommendation": 5591.1
+}
